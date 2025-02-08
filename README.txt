@@ -1,7 +1,7 @@
 //===========[ READ THIS FILE ]===============//
 /* 
- Script ini gratis di YT : DrayXD Official
- Developer : Dray
+ Script ini gratis di YT :ZENO
+ Developer : Don
 
 NOTE : 
 - Dilarang keras memperjual-belikan sc ini
@@ -19,4 +19,4 @@ NOTE :
 5. Wajib subrek yt bang dray:v
 /*
 
-// @ DrayXD Official
+// @ Thandeka -AI
